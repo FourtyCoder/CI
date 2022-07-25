@@ -1,5 +1,7 @@
 name: CI
 
+Name: TerminatorTech
+
 on: [push, workflow_dispatch]
 
 jobs:
